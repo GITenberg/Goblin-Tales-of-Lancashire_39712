@@ -1,0 +1,39 @@
+_repo: Goblin-Tales-of-Lancashire_39712
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gliddon, Charles
+    gutenberg_agent_id: '40172'
+    url: http://www.gutenberg.org/2009/agents/40172
+covers:
+- cover_type: archival
+  image_path: 39712-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bowker, James
+    gutenberg_agent_id: '40170'
+    url: http://www.gutenberg.org/2009/agents/40170
+description: ''
+gutenberg_issued: '2012-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- England -- Lancashire'
+- !lcsh 'Goblins -- England -- Lancashire'
+- !lcsh 'Fairy tales -- England -- Lancashire'
+- !lcc 'GR'
+tableOfContents: The Skriker -- The unbidden guest -- The fairy's spade -- The King
+  of the Fairies -- Mother and child -- The spectral cat -- The captured fairies --
+  The pillion lady -- The fairy funeral -- The chivalrous devil -- The enchanted fisherman
+  -- The sands of Cocker -- The silver token -- The headless woman -- The rescue of
+  Moonbeam -- The White Dobbie -- The little man's gift -- Satan's supper -- The earthenware
+  goose -- The phantom of the fell -- Allhallow's night -- The Christmas-eve vigil
+  -- The crier of Claife -- The demon of the oak -- The black cock -- The invisible
+  burden.
+title: Goblin Tales of Lancashire
+url: http://www.gutenberg.org/ebooks/39712
